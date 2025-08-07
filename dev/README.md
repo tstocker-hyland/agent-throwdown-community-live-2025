@@ -11,3 +11,16 @@ When testing notebooks, you'll come across inputs that you must give (E.g., auth
 Before committing, be sure to go to Kernel -> Restart Kernel and Clear Outputs of All Cells -> Save (Ctrl + S on Windows).
 This way we aren't committing any secrets.
 
+It's strongly suggested to use the .venv kernel when running the notebook locally. It'll look like
+this under the metadata portion in the ipynb file:
+```
+  "kernelspec": {
+   "display_name": "Python (.venv)",
+   "language": "python",
+   "name": "venv"
+  },
+```
+
+The reason it's not there by default is that Google Colab sends an error message when you first
+load up the page since it cannot find the custom .venv kernel.
+This can be distracting to people who use the notebook.
