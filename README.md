@@ -3,7 +3,13 @@ Agent Throwdown for Community Live 2025
 
 # Google Colab
 
-https://colab.research.google.com/github/tstocker-hyland/agent-throwdown-community-live-2025/blob/main/notebooks/rag_request.ipynb
+## Create RAG Agent
+
+https://colab.research.google.com/github/tstocker-hyland/agent-throwdown-community-live-2025/blob/main/notebooks/create_rag_agent.ipynb
+
+## Invoke RAG Agent
+
+https://colab.research.google.com/github/tstocker-hyland/agent-throwdown-community-live-2025/blob/main/notebooks/invoke_rag_agent.ipynb
 
 # 📓 Jupyter Notebook with Virtual Environment
 
