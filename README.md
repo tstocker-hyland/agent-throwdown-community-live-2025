@@ -11,6 +11,10 @@ https://colab.research.google.com/github/tstocker-hyland/agent-throwdown-communi
 
 https://colab.research.google.com/github/tstocker-hyland/agent-throwdown-community-live-2025/blob/main/notebooks/invoke_rag_agent.ipynb
 
+## Create and Invoke RAG Agent
+
+https://colab.research.google.com/github/tstocker-hyland/agent-throwdown-community-live-2025/blob/main/notebooks/create_and_invoke_rag_agent.ipynb
+
 # 📓 Jupyter Notebook with Virtual Environment
 
 This project uses a Python virtual environment to manage dependencies and run Jupyter notebooks in a clean, reproducible way.
